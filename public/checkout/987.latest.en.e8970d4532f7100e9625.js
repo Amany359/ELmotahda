@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcheckout_web=self.webpackChunkcheckout_web||[]).push([[987],{4987:(e,n,c)=>{function t(){return"undefined"==typeof performance?Date.now():performance.now()}c.d(n,{tB:()=>t})}}]);
